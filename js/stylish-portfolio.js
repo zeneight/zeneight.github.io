@@ -62,3 +62,8 @@ var onMapClickHandler = function(event) {
 }
 // Enable map zooming with mouse scroll when the user clicks the map
 $('.map').on('click', onMapClickHandler);
+
+window.onload = function() {
+    // similar behavior as an HTTP redirect
+    window.location.replace("http://agungpriambada.blogspot.com");
+}
