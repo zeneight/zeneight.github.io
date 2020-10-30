@@ -65,5 +65,5 @@ $('.map').on('click', onMapClickHandler);
 
 window.onload = function() {
     // similar behavior as an HTTP redirect
-    window.location.replace("https://blog.zeneight.xyz");
+    window.location.replace("https://agungpriambada.blogspot.com");
 }
