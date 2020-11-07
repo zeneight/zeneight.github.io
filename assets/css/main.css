@@ -2748,7 +2748,7 @@
 	}
 
 		.feature .fa {
-			color: #00cdcf;
+			color: #1fcf00;
 		}
 
 /* Wrapper */
@@ -3510,7 +3510,7 @@
 /* Banner */
 
 	#banner {
-		background-color: #00cdcf;
+		background-color: #00b31e;
 		color: #ffffff;
 		padding: 8em 0 6em 0;
 		text-align: center;
@@ -3609,7 +3609,7 @@
 			#banner input[type="button"].special,
 			#banner button.special,
 			#banner .button.special {
-				background-color: #009a9c;
+				background-color: #009c05;
 				color: #fff !important;
 			}
 
