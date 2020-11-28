@@ -1,6 +1,6 @@
 ## About
 
-Landing page created from bootstrap.
+It's just a landing page created from bootstrap that had been modified by me.
 
 ## Copyright and License
 
