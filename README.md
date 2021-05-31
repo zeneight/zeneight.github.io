@@ -1,7 +1,7 @@
 ## About
+Hey, this is my github pages. Welcome~
+> this is just a list of some random links, code, projects and articles that I make and read.
 
-It's just a landing page created from bootstrap that had been modified by me.
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+## Lists
+- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
+- [ap_nw](https://zeneight.github.io/ap_nw) - Love html template.
