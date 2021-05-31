@@ -1,5 +1,5 @@
 ## About
-Hey, this is my github pages. Welcome~
+Hey, this is my github page. Welcome~
 > this is just a list of some random links, code, projects and articles that I make and read.
 
 ## Lists
