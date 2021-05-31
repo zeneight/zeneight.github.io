@@ -1,5 +1,6 @@
 ## About
 Hey, this is my github page. Welcome~
+[my web](https://zeneight.xyz)
 > this is just a list of some random links, code, projects and articles that I make and read.
 
 ## Lists
