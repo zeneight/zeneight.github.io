@@ -10,3 +10,6 @@ Visit [my web](https://zeneight.xyz)
 ## Useful Gists
 - Install Datatable with laravel 5.3 > [link](https://gist.github.com/nasrulhazim/1b56a5fd455bb4bda07af179169aa17b)
 - Install and change php version on linux > [link](https://gist.github.com/zeneight/7c9696ba252494e52bcb36e9d7fe4172)
+
+## Random Commands
+- Change permission All Folder & SubFolders ```sudo chmod -R 755 /opt/lampp/htdocs```
