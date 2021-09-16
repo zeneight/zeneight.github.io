@@ -13,3 +13,5 @@ Visit [my web](https://zeneight.xyz)
 
 ## Random Commands
 - Change permission All Folder & SubFolders ```sudo chmod -R 755 /opt/lampp/htdocs```
+- Operate mongodb service ```sudo systemctl (start/status/enable/stop) mongod```
+- create a sysmlink path so that command can be run on terminal (ex: heroku) ```sudo ln -s /snap/bin/heroku /usr/bin/heroku```
