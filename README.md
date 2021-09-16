@@ -1,7 +1,8 @@
 ## About
 Hey, this is my github page. Welcome~  
-Visit [my web](https://zeneight.xyz)
+Visit [my web](https://zeneight.xyz) and [my blog](http://agungpriambada.blogspot.com)
 > this is just a list of some random links, code, projects and articles that I make and read.
+- Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d0f03ebdc572ee6e8)
 
 ## Lists
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
