@@ -5,8 +5,9 @@ Visit [my web](https://zeneight.xyz) and [my blog](http://agungpriambada.blogspo
 Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d0f03ebdc572ee6e8)
 > this is just a list of some random links, code, projects and articles that I make and read.
 
-## Lists
+## Lists Repo
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
+- [junwantu/nodejs-gitbook](https://github.com/junwatu/pengenalan-nodejs-gitbook) - Ebook NodeJS in Indonesian.
 - [ap_nw](https://zeneight.github.io/ap_nw) - Love html template.
 
 ## Useful Gists
