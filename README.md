@@ -17,6 +17,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 
 ## Random Commands
 - Change permission All Folder & SubFolders ```sudo chmod -R 755 /opt/lampp/htdocs```
+- Clone Private Repo ```git clone https://username@github.com/username/repo_name```
 - Operate mongodb service ```sudo systemctl (start/status/enable/stop) mongod```
 - create a sysmlink path so that command can be run on terminal (ex: heroku) ```sudo ln -s /snap/bin/heroku /usr/bin/heroku```
 
