@@ -23,3 +23,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
+
+
+## Useful Articles
+- Forbidden : You don't have permissions to access / on this server [link](https://www.digitalocean.com/community/questions/forbidden-you-don-t-have-permissions-to-access-on-this-server)
