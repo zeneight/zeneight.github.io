@@ -31,3 +31,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - create vhost with webmin [link](https://dwiay.com/2021/02/02/cara-membuat-virtual-host-dengan-webmin-gui-dan-webmin-cli/)
 - turn old laptop to server [link](https://dev.to/jayesh_w/this-is-how-i-turned-my-old-laptop-into-a-server-1elf)
 - give specific user to folder [link](https://askubuntu.com/questions/487527/give-specific-user-permission-to-write-to-a-folder-using-w-notation)
+- make own git server [link](https://www.linux.com/training-tutorials/how-run-your-own-git-server/)
