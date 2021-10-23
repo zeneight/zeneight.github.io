@@ -21,6 +21,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - Operate mongodb service ```sudo systemctl (start/status/enable/stop) mongod```
 - create a sysmlink path so that command can be run on terminal (ex: heroku) ```sudo ln -s /snap/bin/heroku /usr/bin/heroku```
 - check if repo updated on remote ```git remote update```
+- fix username is not in the sudoers ```sudo nano /etc/sudoers``` and then add this line below root/admin under #user privilege spec ```user_name ALL=(ALL)  ALL```
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
