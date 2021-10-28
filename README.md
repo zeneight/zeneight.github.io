@@ -14,6 +14,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 ## Useful Gists
 - Install Datatable with laravel 5.3 > [link](https://gist.github.com/nasrulhazim/1b56a5fd455bb4bda07af179169aa17b)
 - Install and change php version on linux > [link](https://gist.github.com/zeneight/7c9696ba252494e52bcb36e9d7fe4172)
+- Add Custom CSS with Laravel Mix > [link](https://gist.github.com/iceberg53/4b57b34a3aa987e3e7459a19aa51ac49)
 
 ## Random Commands
 - Change permission All Folder & SubFolders ```sudo chmod -R 755 /opt/lampp/htdocs```
