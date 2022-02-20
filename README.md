@@ -24,6 +24,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - check if repo updated on remote ```git remote update```
 - fix username is not in the sudoers ```sudo nano /etc/sudoers``` and then add this line below root/admin under #user privilege spec ```user_name ALL=(ALL)  ALL```
 - Make file excecutable ```chmod +x filename```
+- copy all files in folder ```cp -a ttf/. /usr/share/fonts/TTF/```
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
