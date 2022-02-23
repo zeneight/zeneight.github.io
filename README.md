@@ -27,6 +27,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - copy all files in folder ```cp -a ttf/. /usr/share/fonts/TTF/```
 - switch php version on arch linux STEP 1 -> go to /usr/bin dir then run this ```sudo mv php php8``` to rename current php to php8 then after that STEP 2 -> make a symlink ex:  ```sudo ln -sf php7 php``` for php 7.4. If you want to change back to php8 just run STEP 2 command with another symlink
 - mysql login ```mysql -u root -p```
+- copy file to remote server with scp ```scp myfile.txt remoteuser@remoteserver:/remote/folder/```
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
