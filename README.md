@@ -29,6 +29,10 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - switch php version on arch linux STEP 1 -> go to /usr/bin dir then run this ```sudo mv php php8``` to rename current php to php8 then after that STEP 2 -> make a symlink ex:  ```sudo ln -sf php7 php``` for php 7.4. If you want to change back to php8 just run STEP 2 command with another symlink
 - mysql login ```mysql -u root -p```
 - copy file to remote server with scp ```scp myfile.txt remoteuser@remoteserver:/remote/folder/```
+- install PM2 if you don't have it: ```npm install pm2 -g && pm2 install pm2-logrotate```
+- ```pm2 start server/server.js --name process-whatever``` > to add process
+- ```pm2 monit``` > If you want to see the current console output
+- ```pm2 save && pm2 startup``` > If you want to add it to startup
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
