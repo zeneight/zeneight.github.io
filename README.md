@@ -33,6 +33,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - ```pm2 start server/server.js --name process-whatever``` > to add process
 - ```pm2 monit``` > If you want to see the current console output
 - ```pm2 save && pm2 startup``` > If you want to add it to startup
+- ```xrandr --output HDMI-1 --auto``` > To set hdmi output (to set the layout go to > preferences > Display > Layout Editor)
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
