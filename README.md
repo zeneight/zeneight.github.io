@@ -16,6 +16,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - Install and change php version on linux > [link](https://gist.github.com/zeneight/7c9696ba252494e52bcb36e9d7fe4172)
 - Add Custom CSS with Laravel Mix > [link](https://gist.github.com/iceberg53/4b57b34a3aa987e3e7459a19aa51ac49)
 - laravel .htaccess on shared hosting > [link](https://gist.github.com/zeneight/a4c9733cf51dc6db7f5c9f89e879f4c6)
+- mongodb import > [link](https://stackoverflow.com/questions/53078520/mongodb-how-to-import-dump-data-from-gz-file)
 
 ## Random Commands
 - Change permission All Folder & SubFolders ```sudo chmod -R 755 /opt/lampp/htdocs```
