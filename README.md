@@ -51,3 +51,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - make own git server [link](https://www.linux.com/training-tutorials/how-run-your-own-git-server/)
 - Install Node & NPM [link](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
 - Install PostgreSQL [link](https://computingforgeeks.com/install-postgresql-11-on-ubuntu-linux/)
+- Install Java [link](https://www.niagahoster.co.id/blog/cara-install-java-di-ubuntu/)
