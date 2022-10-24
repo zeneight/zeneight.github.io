@@ -49,3 +49,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - turn old laptop to server [link](https://dev.to/jayesh_w/this-is-how-i-turned-my-old-laptop-into-a-server-1elf)
 - give specific user to folder [link](https://askubuntu.com/questions/487527/give-specific-user-permission-to-write-to-a-folder-using-w-notation)
 - make own git server [link](https://www.linux.com/training-tutorials/how-run-your-own-git-server/)
+- Install Node & NPM [link](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
