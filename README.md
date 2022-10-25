@@ -38,6 +38,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - ```mysqldump -u root -p db > db.sql``` > To export data
 - ```sudo a2dismod php5.6 && sudo a2enmod php7.4``` > To disable php module 5.6 and enable mod php 7.4
 - ```pactl unload-module module-bluetooth-discover && pactl load-module module-bluetooth-discover``` > when bluetooth can't connect to device
+- github permission denied when add agent. It means need to add manually the key -> ```ssh-add /path/to/my-non-standard-ssh-folder/id_rsa``` [more](https://stackoverflow.com/questions/26505980/github-permission-denied-ssh-add-agent-has-no-identities)
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
