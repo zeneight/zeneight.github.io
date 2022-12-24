@@ -56,3 +56,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - Install PostgreSQL [link](https://computingforgeeks.com/install-postgresql-11-on-ubuntu-linux/)
 - Install Java [link](https://www.niagahoster.co.id/blog/cara-install-java-di-ubuntu/)
 - Crontab configuration [link](https://www.baeldung.com/linux/run-command-start-up)
+- Info about docker [link](https://alfredo-reyes-montero.gitbook.io/docker/)
