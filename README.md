@@ -57,3 +57,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - Install Java [link](https://www.niagahoster.co.id/blog/cara-install-java-di-ubuntu/)
 - Crontab configuration [link](https://www.baeldung.com/linux/run-command-start-up)
 - Info about docker [link](https://alfredo-reyes-montero.gitbook.io/docker/)
+- Download a git branch from remote server [link](https://stackoverflow.com/questions/2294313/how-to-download-a-branch-with-git)
