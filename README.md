@@ -59,3 +59,5 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - Info about docker [link](https://alfredo-reyes-montero.gitbook.io/docker/)
 - Download a git branch from remote server [link](https://stackoverflow.com/questions/2294313/how-to-download-a-branch-with-git)
 - Install PHP, integrate with webservers and its dependencies [link](https://linuxize.com/post/how-to-install-php-8-on-ubuntu-20-04/)
+- MySQL password does not satisfy the current policy requirements [link](https://stackoverflow.com/questions/43094726/your-password-does-not-satisfy-the-current-policy-requirements)
+- authentication method unknown to the client [link](https://stackoverflow.com/questions/50026939/php-mysqli-connect-authentication-method-unknown-to-the-client-caching-sha2-pa)
