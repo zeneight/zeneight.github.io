@@ -62,3 +62,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - MySQL password does not satisfy the current policy requirements [link](https://stackoverflow.com/questions/43094726/your-password-does-not-satisfy-the-current-policy-requirements)
 - authentication method unknown to the client [link](https://stackoverflow.com/questions/50026939/php-mysqli-connect-authentication-method-unknown-to-the-client-caching-sha2-pa)
 - install go on linux [link](https://golangdocs.com/install-go-linux)
+- change dateformat in javascript/jQuery [link](https://stackoverflow.com/questions/5250244/jquery-date-formatting?noredirect=1&lq=1)
