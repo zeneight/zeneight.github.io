@@ -64,3 +64,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - install go on linux [link](https://golangdocs.com/install-go-linux)
 - change dateformat in javascript/jQuery [link](https://stackoverflow.com/questions/5250244/jquery-date-formatting?noredirect=1&lq=1)
 - generate changelog [link](https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/)
+- temporary hide and disable indexing on apache2 [link](https://stackoverflow.com/questions/38331397/how-to-protect-env-file-in-laravel)
