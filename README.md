@@ -65,3 +65,5 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - change dateformat in javascript/jQuery [link](https://stackoverflow.com/questions/5250244/jquery-date-formatting?noredirect=1&lq=1)
 - generate changelog [link](https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/)
 - temporary hide and disable indexing on apache2 [link](https://stackoverflow.com/questions/38331397/how-to-protect-env-file-in-laravel)
+- make sysmlink on linux [link](https://](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/)
+- allow remote MySQL [link](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
