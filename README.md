@@ -67,3 +67,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - temporary hide and disable indexing on apache2 [link](https://stackoverflow.com/questions/38331397/how-to-protect-env-file-in-laravel)
 - make sysmlink on linux [link](https://](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/)
 - allow remote MySQL [link](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
+- installing php extension for php app/laravel [link](https://stackoverflow.com/questions/40815984/how-to-install-all-required-php-extensions-for-laravel)
