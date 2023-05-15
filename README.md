@@ -69,4 +69,5 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - allow remote MySQL [link](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
 - installing php extension for php app/laravel [link](https://stackoverflow.com/questions/40815984/how-to-install-all-required-php-extensions-for-laravel)
 - make virtual host and server block on webservers (nginx, apache) [link](https://www.niagahoster.co.id/blog/virtual-host/)
-- install mysql on ubuntu (link)[https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04]
+- install mysql on ubuntu [link(https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+- setting a new linux server (ubuntu) [link](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
