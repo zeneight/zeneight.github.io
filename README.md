@@ -72,3 +72,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - install mysql on ubuntu [link(https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
 - setting a new linux server (ubuntu) [link](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
 - installing apache2 on ubuntu and make vhost plus some config [link](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04)
+- install and config nginx & laravel on ubuntu [link](https://medium.com/techvblogs/how-to-deploy-laravel-application-with-nginx-on-ubuntu-cc3ef9f39068)
