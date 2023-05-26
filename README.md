@@ -75,3 +75,4 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - install and config nginx & laravel on ubuntu [link](https://medium.com/techvblogs/how-to-deploy-laravel-application-with-nginx-on-ubuntu-cc3ef9f39068)
 - config multiple php on one server with apache & ubuntu [link](https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-to-use-custom-error-pages-on-ubuntu-22-04)
 - allow/opening outgoing and incoming port on WHM/CPANEL [link](https://clientarea.mochahost.com/knowledgebase/778/Opening-ports-via-WHM-interface-FirewallorCSF.html)
+- remote access with mongoDB [link](https://www.digitalocean.com/community/tutorials/how-to-configure-remote-access-for-mongodb-on-ubuntu-20-04)
