@@ -42,6 +42,7 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - always enable firewall when want to access ip from other device ```sudo ufw allow [PORT]/tcp``` [more](https://stackoverflow.com/questions/29758588/how-can-i-access-monit-http-remotely).
 - ```docker update --restart unless-stopped $(docker ps -q)``` > restart all docker unless it stopped
 - ```sudo chown -R _currentuser_:www-data /var/www/html && chmod -R g+sw /var/www/html``` > change permission so home user could modified the webserver folder
+- rysnc without permission change ```rsync --no-perms -azP source/ destination/```
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
