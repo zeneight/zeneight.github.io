@@ -45,10 +45,12 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - rysnc without permission change ```rsync --no-perms -azP source/ destination/```
 
 ## Brew commands
-- Install different php on mac ```brew unlink php@7.4 && brew link --force —-overwrite php@5.6```
+- install different php ```brew install shivammathur/php/php@5.6``` 
+- switch different php on mac ```brew unlink php@7.4 && brew link --force —-overwrite php@5.6```
 
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
+- neofetch [link](https://www.cyberciti.biz/howto/neofetch-awesome-system-info-bash-script-for-linux-unix-macos/)
 
 
 ## Useful Articles
