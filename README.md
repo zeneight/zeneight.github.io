@@ -44,6 +44,9 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - ```sudo chown -R _currentuser_:www-data /var/www/html && chmod -R g+sw /var/www/html``` > change permission so home user could modified the webserver folder
 - rysnc without permission change ```rsync --no-perms -azP source/ destination/```
 
+## Brew commands
+- Install different php on mac ```brew unlink php@7.4 && brew link --force —-overwrite php@5.6```
+
 ## Dev Articles/Cheatsheet/Etc
 - Local Strapi + cloud MongoDB Atlas > [link](https://medium.com/@firstsquares/local-strapi-cloud-mongodb-atlas-cc65288f0dee)
 
