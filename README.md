@@ -9,7 +9,6 @@ Recent Notes/TodoList > [here](https://gist.github.com/zeneight/0b89468283d9702d
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
 - [junwatu/nodejs-gitbook](https://github.com/junwatu/pengenalan-nodejs-gitbook) - Ebook NodeJS in Indonesian.
 - [javascript-tutorial/id.javascript.info](https://github.com/javascript-tutorial/id.javascript.info) - Modern JavaScript Tutorial in Indonesian.
-- [ap_nw](https://zeneight.github.io/ap_nw) - Love html template.
 
 ## Useful Gists
 - Install Datatable with laravel 5.3 > [link](https://gist.github.com/nasrulhazim/1b56a5fd455bb4bda07af179169aa17b)
